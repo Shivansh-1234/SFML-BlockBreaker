@@ -6,7 +6,7 @@ Game Setup Used :-
 2.Asset Manager
 
 To Play :-
-x64->Release->BlockBreaker.exe
+BlockBreker->x64/Release->BlockBreaker.exe
 
 HOPE YOU LIKE IT !
 
