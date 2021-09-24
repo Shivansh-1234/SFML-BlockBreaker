@@ -1,0 +1,50 @@
+﻿  GameOverState.cpp
+  GameState.cpp
+  Main.cpp
+C:\Users\karti\source\repos\BlockBreaker\Main.cpp(10,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  MainMenuState.cpp
+C:\Users\karti\source\repos\BlockBreaker\MainMenuState.cpp(24,129): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\karti\source\repos\BlockBreaker\MainMenuState.cpp(73,112): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\karti\source\repos\BlockBreaker\MainMenuState.cpp(73,83): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\karti\source\repos\BlockBreaker\MainMenuState.cpp(73,58): warning C4244: 'argument': conversion from 'const T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\karti\source\repos\BlockBreaker\MainMenuState.cpp(73,37): warning C4244: 'argument': conversion from 'const T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+  PauseMenuState.cpp
+  SplashScreenState.cpp
+  Generating code
+  0 of 538 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  BlockBreaker.vcxproj -> C:\Users\karti\source\repos\BlockBreaker\x64\Release\BlockBreaker.exe
