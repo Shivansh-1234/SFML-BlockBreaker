@@ -19,21 +19,21 @@
 #define BRICK_COLUMN_GAP 50.f
 
 //SPRITES DEFINITIONS
-#define SPLASH_SCREEN_BG_IMG "background.png"
+#define SPLASH_SCREEN_BG_IMG "Assets/Sprites/background.png"
 
-#define MAIN_MENU_SCREEN_BG_IMG "mm_bg.png"
-#define MAIN_MENU_SCREEN_TITLE "mm_title.png"
-#define MAIN_MENU_SCREEN_PLAY "mm_play.png"
-#define MAIN_MENU_MADE_BY "mm_shivansh.png"
+#define MAIN_MENU_SCREEN_BG_IMG "Assets/Sprites/mm_bg.png"
+#define MAIN_MENU_SCREEN_TITLE "Assets/Sprites/mm_title.png"
+#define MAIN_MENU_SCREEN_PLAY "Assets/Sprites/mm_play.png"
+#define MAIN_MENU_MADE_BY "Assets/Sprites/mm_shivansh.png"
 
-#define GAME_BACKGROUND "game_bg.png"
-#define GAME_PLAYER "game_player.png"
-#define GAME_BALL "game_ball.png"
-#define GAME_BRICK "game_brick.png"
-#define GAME_FONT "game_font.ttf"
+#define GAME_BACKGROUND "Assets/Sprites/game_bg.png"
+#define GAME_PLAYER "Assets/Sprites/game_player.png"
+#define GAME_BALL "Assets/Sprites/game_ball.png"
+#define GAME_BRICK "Assets/Sprites/game_brick.png"
+#define GAME_FONT "Assets/Fonts/game_font.ttf"
 
-#define PAUSE_BACKGROUND "mm_bg.png"
-#define PAUSE_HOME_BUTTON "home.png"
-#define PAUSE_QUIT_BUTTON "quit.png"
-#define PAUSE_TITLE_FONT "game_font.ttf"
-#define PAUSE_GUI_FONT "gui_text.ttf"
+#define PAUSE_BACKGROUND "Assets/Sprites/mm_bg.png"
+#define PAUSE_HOME_BUTTON "Assets/Sprites/home.png"
+#define PAUSE_QUIT_BUTTON "Assets/Sprites/quit.png"
+#define PAUSE_TITLE_FONT "Assets/Fonts/game_font.ttf"
+#define PAUSE_GUI_FONT "Assets/Fonts/gui_text.ttf"
